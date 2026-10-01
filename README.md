@@ -8,24 +8,24 @@ A curated public collection of editable parametric OpenSCAD generators, ready-to
 
 <table>
   <tr>
-    <td align="center"><a href="cr80-card-holder/README.md"><img src="cr80-card-holder/images/default-flex-tabs.png" width="300" alt="CR80 / ID-1 Card Holder render"><br><strong>CR80 / ID-1 Card Holder</strong></a></td>
-    <td align="center"><a href="cable-clips/README.md"><img src="cable-clips/images/small.png" width="300" alt="Adjustable Cable Clips render"><br><strong>Adjustable Cable Clips</strong></a></td>
-    <td align="center"><a href="decorative-insects/README.md"><img src="decorative-insects/images/butterfly-relief.png" width="300" alt="Decorative Insects render"><br><strong>Decorative Insects</strong></a></td>
+    <td align="center"><a href="https://git.p20.dev/christian/OpenSCAD-Generators/src/branch/main/cr80-card-holder/README.md"><img src="cr80-card-holder/images/default-flex-tabs.png" width="300" alt="CR80 / ID-1 Card Holder render"><br><strong>CR80 / ID-1 Card Holder</strong></a></td>
+    <td align="center"><a href="https://git.p20.dev/christian/OpenSCAD-Generators/src/branch/main/cable-clips/README.md"><img src="cable-clips/images/small.png" width="300" alt="Adjustable Cable Clips render"><br><strong>Adjustable Cable Clips</strong></a></td>
+    <td align="center"><a href="https://git.p20.dev/christian/OpenSCAD-Generators/src/branch/main/decorative-insects/README.md"><img src="decorative-insects/images/butterfly-relief.png" width="300" alt="Decorative Insects render"><br><strong>Decorative Insects</strong></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="parametric-box/README.md"><img src="parametric-box/images/inner-lip.png" width="300" alt="Parametric Box render"><br><strong>Parametric Box</strong></a></td>
-    <td align="center"><a href="parametric-keyring/README.md"><img src="parametric-keyring/images/raised-text.png" width="300" alt="Parametric Keyring render"><br><strong>Parametric Keyring</strong></a></td>
-    <td align="center"><a href="s-hook/README.md"><img src="s-hook/images/round.png" width="300" alt="Parametric S-Hook render"><br><strong>Parametric S-Hook</strong></a></td>
+    <td align="center"><a href="https://git.p20.dev/christian/OpenSCAD-Generators/src/branch/main/parametric-box/README.md"><img src="parametric-box/images/inner-lip.png" width="300" alt="Parametric Box render"><br><strong>Parametric Box</strong></a></td>
+    <td align="center"><a href="https://git.p20.dev/christian/OpenSCAD-Generators/src/branch/main/parametric-keyring/README.md"><img src="parametric-keyring/images/raised-text.png" width="300" alt="Parametric Keyring render"><br><strong>Parametric Keyring</strong></a></td>
+    <td align="center"><a href="https://git.p20.dev/christian/OpenSCAD-Generators/src/branch/main/s-hook/README.md"><img src="s-hook/images/round.png" width="300" alt="Parametric S-Hook render"><br><strong>Parametric S-Hook</strong></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="storage-system/README.md"><img src="storage-system/images/standard-box.png" width="300" alt="Parametric Storage System render"><br><strong>Parametric Storage System</strong></a></td>
-    <td align="center"><a href="tea-bag-dispenser/README.md"><img src="tea-bag-dispenser/images/front-pull.png" width="300" alt="Tea-Bag Dispenser render"><br><strong>Tea-Bag Dispenser</strong></a></td>
-    <td align="center"><a href="text-generator/README.md"><img src="text-generator/images/standing-text.png" width="300" alt="3D Text Generator render"><br><strong>3D Text Generator</strong></a></td>
+    <td align="center"><a href="https://git.p20.dev/christian/OpenSCAD-Generators/src/branch/main/storage-system/README.md"><img src="storage-system/images/standard-box.png" width="300" alt="Parametric Storage System render"><br><strong>Parametric Storage System</strong></a></td>
+    <td align="center"><a href="https://git.p20.dev/christian/OpenSCAD-Generators/src/branch/main/tea-bag-dispenser/README.md"><img src="tea-bag-dispenser/images/front-pull.png" width="300" alt="Tea-Bag Dispenser render"><br><strong>Tea-Bag Dispenser</strong></a></td>
+    <td align="center"><a href="https://git.p20.dev/christian/OpenSCAD-Generators/src/branch/main/text-generator/README.md"><img src="text-generator/images/standing-text.png" width="300" alt="3D Text Generator render"><br><strong>3D Text Generator</strong></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="universal-clock-dial/README.md"><img src="universal-clock-dial/images/round.png" width="300" alt="Universal Clock Dial render"><br><strong>Universal Clock Dial</strong></a></td>
-    <td align="center"><a href="universal-sign/README.md"><img src="universal-sign/images/flat-plate.png" width="300" alt="Universal Sign Generator render"><br><strong>Universal Sign Generator</strong></a></td>
-    <td align="center"><a href="usb-stick-holder/README.md"><img src="usb-stick-holder/images/rectangular.png" width="300" alt="USB Stick Holder render"><br><strong>USB Stick Holder</strong></a></td>
+    <td align="center"><a href="https://git.p20.dev/christian/OpenSCAD-Generators/src/branch/main/universal-clock-dial/README.md"><img src="universal-clock-dial/images/round.png" width="300" alt="Universal Clock Dial render"><br><strong>Universal Clock Dial</strong></a></td>
+    <td align="center"><a href="https://git.p20.dev/christian/OpenSCAD-Generators/src/branch/main/universal-sign/README.md"><img src="universal-sign/images/flat-plate.png" width="300" alt="Universal Sign Generator render"><br><strong>Universal Sign Generator</strong></a></td>
+    <td align="center"><a href="https://git.p20.dev/christian/OpenSCAD-Generators/src/branch/main/usb-stick-holder/README.md"><img src="usb-stick-holder/images/rectangular.png" width="300" alt="USB Stick Holder render"><br><strong>USB Stick Holder</strong></a></td>
   </tr>
 </table>
 
@@ -49,7 +49,7 @@ Each project folder also contains curated STL examples under `stl-files/` and ma
 
 The public tree is generated from an explicit whitelist in the private canonical source repository. Every published SCAD file is rendered in isolation; every STL is checked for closed topology and bed bounds and is smoke-sliced with PrusaSlicer.
 
-Generated from canonical source commit `481b1feae297b11311978708135ffef607aba5b6` using OpenSCAD Nightly. Public assets are updated in place rather than manually edited here.
+Generated from canonical source commit `ebd1af8362cf0ddeac0a0ebc117687832d43df27` using OpenSCAD Nightly. Public assets are updated in place rather than manually edited here.
 
 ## License
 
